@@ -53,3 +53,9 @@ Ensure the fairness and integrity of the training process and data quality.
 - **Interoperability**: Ensure compatibility with existing systems for easy adoption.
 
 This framework is designed to foster collaborative AI development, leveraging blockchain technology for a secure, private, and equitable federated learning environment.
+
+![image](https://github.com/brainstems/.github/assets/10965573/7183e47e-b4a1-4519-ab2a-3a94e74c5ea1)
+
+
+
+
